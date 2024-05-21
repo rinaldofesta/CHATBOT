@@ -1,0 +1,7 @@
+
+flask
+rasa
+spacy
+requests
+twilio
+slack_sdk
